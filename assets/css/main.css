@@ -1794,6 +1794,9 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
+		.portrait{
+			height: auto;
+		}
 
 /* List */
 
